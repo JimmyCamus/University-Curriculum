@@ -10,7 +10,7 @@ const Hero = () => {
             En este portal podrás encontrar las mallas curriculares de las
             carreras pertenecientes a la Universidad Católica del Norte
           </p>
-          <Link href="/careers" className="btn btn-primary">
+          <Link href="/careers" className="btn btn-primary text-white">
             Comencemos
           </Link>
         </div>
