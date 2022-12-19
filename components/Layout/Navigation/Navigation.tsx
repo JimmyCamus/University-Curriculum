@@ -3,7 +3,7 @@ import Link from "next/link";
 const Navigation = () => {
   return (
     <nav className="navbar min-h-16 bg-primary text-white">
-      <Link className="btn btn-ghost normal-case text-xl" href="/">
+      <Link className="btn btn-ghost normal-case text-xl" href="/careers">
         Malla Curricular UCN
       </Link>
     </nav>
